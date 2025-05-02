@@ -1,7 +1,7 @@
 # 👋 Hi, I'm JOY23072005
 
-I'm a passionate developer skilled in **JavaScript, C++, Python**, and **Java/JSP**.  
-I build **APIs** and **websites** using powerful frameworks like **React, Node.js, Express**, and **Django**.
+I'm a passionate developer skilled in **JavaScript, C++, Python**, **Java/JSP**, and **R**.  
+I build **APIs** and **websites** using powerful frameworks like **React, Node.js, Express**, **Django**, and work with **SQL**, **HTML**, and **CSS**.
 
 ---
 
@@ -15,13 +15,13 @@ I build **APIs** and **websites** using powerful frameworks like **React, Node.j
 ## 💡 Tech Stack
 
 **Languages:**  
-JavaScript, C++, Python, Java/JSP  
+JavaScript, C++, Python, Java/JSP, R  
 
 **Frameworks & Libraries:**  
 React, Node.js, Express, Django  
 
 **Databases & Tools:**  
-MongoDB, MySQL, MSSQL Server, PostgreSQL, Git
+MongoDB, MySQL, MSSQL Server, PostgreSQL, Git, SQL
 
 ---
 
@@ -37,4 +37,3 @@ MongoDB, MySQL, MSSQL Server, PostgreSQL, Git
 
 Open to collaboration and always eager to learn something new.  
 Check out my repos and feel free to reach out!
-
