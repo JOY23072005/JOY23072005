@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm JOY23072005
 
-<!--
-**JOY23072005/JOY23072005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer skilled in **JavaScript, C++, Python**, and **Java/JSP**.  
+I build **APIs** and **websites** using powerful frameworks like **React, Node.js, Express**, and **Django**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+🌱 Learning and building projects with the **MERN Stack**  
+🎯 Goal: Become a proficient **Full Stack Developer**
+
+---
+
+## 💡 Tech Stack
+
+**Languages:**  
+JavaScript, C++, Python, Java/JSP  
+
+**Frameworks & Libraries:**  
+React, Node.js, Express, Django  
+
+**Databases & Tools:**  
+MongoDB, MySQL, MSSQL Server, PostgreSQL, Git
+
+---
+
+## 🔧 Projects
+
+- APIs for web applications  
+- Full-stack websites using modern technologies  
+- Backend integration with various databases
+
+---
+
+## 📫 Let's Connect
+
+Open to collaboration and always eager to learn something new.  
+Check out my repos and feel free to reach out!
+
