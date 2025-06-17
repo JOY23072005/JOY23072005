@@ -1,7 +1,7 @@
 # 👋 Hi, I'm JOY23072005
 
 I'm a passionate developer skilled in **JavaScript, C++, Python**, **Java/JSP**, and **R**.  
-I build **APIs** and **websites** using powerful frameworks like **React, Node.js, Express**, **Django**, and work with **SQL**, **HTML**, and **CSS**.
+I build **APIs** and **websites** using powerful frameworks like **React, Node.js, Express**, **Django**, and work with **MongoDB**, **SQL**, **HTML**, and **CSS**.
 
 ---
 
