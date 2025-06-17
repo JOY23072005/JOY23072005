@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JOY23072005
+# 👋 Hi, I'm Joydeep Hans
 
 I'm a passionate developer skilled in **JavaScript, C++, Python**, **Java/JSP**, and **R**.  
 I build **APIs** and **websites** using powerful frameworks like **React, Node.js, Express**, **Django**, and work with **MongoDB**, **SQL**, **HTML**, and **CSS**.
