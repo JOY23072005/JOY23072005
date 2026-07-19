@@ -1,6 +1,4 @@
 
-)
-
 # 💫 Hi 👋, I'm Joydeep Hans
 **A passionate Software Engineer || Fullstack Engineer || Specialization in Backend || Hansraj College, Delhi University Graduate**
 
