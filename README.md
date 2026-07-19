@@ -22,7 +22,6 @@ Email Me 👉 ✉️ **hansjoydeep@gmail.com** For Collaboration/Project or Anyt
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOY23072005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=JOY23072005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JOY23072005&theme=dark&hide_border=false)
 
 
 
