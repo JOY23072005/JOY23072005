@@ -7,7 +7,7 @@
 Email Me 👉 ✉️ **hansjoydeep@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 ### ✍️ Random Dev Quote
 <div style="display:flex">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="50%" alt="Dev Quote"/>
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%" alt="Joydeep Hans Coding"/>
 </div>
 
