@@ -1,12 +1,13 @@
+
+)
+
 # 💫 Hi 👋, I'm Joydeep Hans
 **A passionate Software Engineer || Fullstack Engineer || Specialization in Backend || Hansraj College, Delhi University Graduate**
 
 Email Me 👉 ✉️ **hansjoydeep@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+### ✍️ Random Dev Quote
 <div style="display:flex">
-  <div style="width:50%">
-    ### ✍️ Random Dev Quote
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  </div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote"/>
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%" alt="Joydeep Hans Coding"/>
 </div>
 
