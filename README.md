@@ -21,7 +21,7 @@ Email Me 👉 ✉️ **hansjoydeep@gmail.com** For Collaboration/Project or Anyt
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOY23072005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 <!-- Snake Game Repo View -->
-<img src="https://profile-readme-generator.com/assets/snake.svg" style="width:60%" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" style="width:100%" alt="Snake animation" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JOY23072005&label=Profile%20views&color=0e75b6&style=flat" alt="JOY23072005" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
