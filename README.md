@@ -24,14 +24,10 @@ Email Me 👉 ✉️ **hansjoydeep@gmail.com** For Collaboration/Project or Anyt
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JOY23072005&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JOY23072005&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JOY23072005&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=JOY23072005&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=JOY23072005&theme=radical">
 
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOY23072005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 <!-- Snake Game Repo View -->
 <img src="https://profile-readme-generator.com/assets/snake.svg" style="width:100%" alt="Snake animation" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JOY23072005&label=Profile%20views&color=0e75b6&style=flat" alt="JOY23072005" /> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
