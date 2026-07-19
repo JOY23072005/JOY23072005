@@ -5,11 +5,14 @@
 **A passionate Software Engineer || Fullstack Engineer || Specialization in Backend || Hansraj College, Delhi University Graduate**
 
 Email Me 👉 ✉️ **hansjoydeep@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-### ✍️ Random Dev Quote
-<div style="display:flex">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="45%" alt="Dev Quote"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%" alt="Joydeep Hans Coding"/>
+
+<div>
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote" align="left" width="40%" />
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Joydeep Hans Coding" align="right" width="55%" />
+
+<br clear="all" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/joydeep.hans/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/joydeephans36) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joydeephans/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hansjoydeep@gmail.com) 
